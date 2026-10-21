@@ -7,7 +7,6 @@ visualiza e edita seus filmes favoritos (nome, nota e foto), com **MVVM**,
 ## Integrantes
 
 - Guilherme Verrone - 216361
-- Murilo Alvim - 240874
 - Yasmin Batista - 241959
 
 ## Funcionalidades
