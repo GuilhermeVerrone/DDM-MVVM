@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Desafio - DDM</string>
+
+    <!-- Login -->
+    <string name="title_login">Catálogo de Filmes</string>
+    <string name="hint_usuario">Usuário</string>
+    <string name="hint_senha">Senha</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="erro_login">Usuário ou senha inválidos</string>
+
+    <!-- Cadastro / edição -->
+    <string name="title_novo_filme">Novo Filme Favorito</string>
+    <string name="title_editar_filme">Editar Filme</string>
+    <string name="hint_titulo">Nome do Filme</string>
+    <string name="hint_genero">Gênero</string>
+    <string name="hint_nota">Nota (0 a 10)</string>
+    <string name="hint_poster_url">URL do Poster</string>
+    <string name="desc_poster">Poster do filme</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_atualizar">Atualizar</string>
+    <string name="erro_campos_obrigatorios">Preencha todos os campos</string>
+    <string name="erro_nota_invalida">Informe uma nota entre 0 e 10</string>
+    <string name="filme_salvo">Filme salvo com sucesso</string>
+    <string name="filme_atualizado">Filme atualizado com sucesso</string>
+    <string name="filme_nao_encontrado">Filme não encontrado</string>
+
+    <!-- Lista -->
+    <string name="title_lista">Meus Favoritos</string>
+    <string name="btn_novo_filme">Adicionar filme</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="lista_vazia">Nenhum filme cadastrado</string>
+    <string name="voltar">Voltar</string>
+    <string name="nota_formato">%1$.1f</string>
+    <string name="titulo_confirmar_exclusao">Remover favorito</string>
+    <string name="msg_confirmar_exclusao">Deseja remover \"%1$s\" da sua lista?</string>
+    <string name="filme_excluido">Filme removido</string>
+</resources>
